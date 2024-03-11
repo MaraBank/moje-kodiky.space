@@ -1,0 +1,19 @@
+{
+    "name": "chilevision/blackmagic-videohub-php-library",
+    "description": "This library is used to implement the Blackmagic Design Videohub ethernet protocol to commuicationg with video routers over ethernet.",
+    "type": "library",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Chilevision\\videohub\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andreas Andersson",
+            "email": "andreas@amedia.nu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
