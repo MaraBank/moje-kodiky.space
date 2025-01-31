@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #1e1e1e;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+header {
+    background: #222;
+    padding: 15px;
+}
+
+button {
+    padding: 10px 15px;
+    background: #ff9800;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#filters {
+    margin: 20px 0;
+}
+
+input, select {
+    padding: 10px;
+    font-size: 16px;
+    margin: 5px;
+}
+
+#marketplace {
+    margin-top: 20px;
+}
+
+.item {
+    background: #333;
+    padding: 10px;
+    margin: 10px auto;
+    width: 200px;
+    border-radius: 5px;
+}
